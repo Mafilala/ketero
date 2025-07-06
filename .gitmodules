@@ -1,0 +1,9 @@
+[submodule "bot"]
+	path = bot
+	url = https://github.com/Mafilala/ketero_bot
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Mafilala/Ketero_frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Mafilala/Ketero_db
