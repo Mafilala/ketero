@@ -36,11 +36,13 @@ Each part lives in a separate repository and is included here as a submodule.
 
 ![Home](screenshots/home.jpg)
 ![Commands](screenshots/home2.jpg)
+![create](screenshots/create.jpg)
 
 ### 2. Order Form
 
 ![Order Form](screenshots/registration.jpg)
 ![Order Detail](screenshots/order_detail.jpg)
+![Measures](screenshots/measures.jpg)
 
 ## 🚀 Setup Instructions
 
